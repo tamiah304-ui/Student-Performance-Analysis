@@ -1,13 +1,27 @@
+<div align="center">
+
 # 🎓 Student Performance Analysis
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-000000?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
+
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-000000?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-000000?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-000000?style=for-the-badge)
+![OLS Regression](https://img.shields.io/badge/OLS_Regression-000000?style=for-the-badge)
+![Model Diagnostics](https://img.shields.io/badge/Model_Diagnostics-000000?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-000000?style=for-the-badge)
 
-An end-to-end data analysis project investigating the factors influencing students' academic performance using statistical modelling in Python and interactive data visualization in Power BI.
+### An end-to-end data analysis project investigating the factors influencing students' academic performance using statistical modelling in Python and interactive data visualization in Power BI.
+
+</div>
 
 ---
 
