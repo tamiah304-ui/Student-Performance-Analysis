@@ -1,18 +1,11 @@
 # 🎓 Student Performance Analysis
 
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
-
-![EDA](https://img.shields.io/badge/EDA-Complete-orange?style=for-the-badge)
-
-![Regression](https://img.shields.io/badge/OLS-Regression-blueviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 
 An end-to-end data analysis project investigating the factors influencing students' academic performance using statistical modelling in Python and interactive data visualization in Power BI.
 
