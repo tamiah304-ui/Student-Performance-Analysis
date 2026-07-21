@@ -32,6 +32,7 @@
 **Techniques:** Data Cleaning • Exploratory Data Analysis (EDA) • Multiple Linear Regression • Model Diagnostics • Dashboard Development
 
 **Dataset Size:** **6,378 student records**
+**Last Updated:** **June 2026**
 
 ---
 
