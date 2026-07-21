@@ -212,4 +212,6 @@ Open the Jupyter Notebook to reproduce the analysis and use **Power BI Desktop**
 
 GitHub: https://github.com/tamiah304-ui
 
-LinkedIn: *(Coming soon)*
+LinkedIn: www.linkedin.com/in/
+tamiah-mwangi
+
