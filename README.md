@@ -1,13 +1,18 @@
 # 🎓 Student Performance Analysis
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical%20Modeling-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
+
+![EDA](https://img.shields.io/badge/EDA-Complete-orange?style=for-the-badge)
+
+![Regression](https://img.shields.io/badge/OLS-Regression-blueviolet?style=for-the-badge)
 
 An end-to-end data analysis project investigating the factors influencing students' academic performance using statistical modelling in Python and interactive data visualization in Power BI.
 
