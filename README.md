@@ -222,7 +222,7 @@ Open the Jupyter Notebook to reproduce the analysis and use **Power BI Desktop**
 
 🎓 BSc Economics & Statistics
 
-💼 Aspiring Data Analyst
+💼 Junior Data Analyst
 
 GitHub: https://github.com/tamiah304-ui
 
